@@ -17,6 +17,7 @@
   - Distilled Resnet18 outperforms both its raw version. Rather unexpectedly, it exceeds the teacher ResNet50, portraying the regularizing effects of distillation.
 
 **See slides for more details on results**
+**The experiment cannot be replicated simply using the colab notebook, due to the data not being present on colab's VM. To replicate, extract the zip file at: https://drive.google.com/file/d/1xMHYAJ-GfjkA9Z6tf3tKa0laZfLeunWm/view?usp=drive_link to the same directory as this README. 
 
 **Links:**
   - Github: https://github.com/qml219/CV02_finalproj
