@@ -15,9 +15,9 @@ Method:
 Result: 
   - Distilled Resnet18 outperforms both its raw version. Rather unexpectedly, it exceeds the teacher ResNet50, portraying the regularizing effects of distillation.
 
-Testing Accuracy on class 0 of raw MobileNet 0.3571%
-Testing Accuracy on class 0 of student MobileNet: 0.3333%
-Testing Accuracy on class 1 of raw MobileNet: 0.9777%
-Testing Accuracy on class 1 of student MobileNet: 0.9860%
-Testing Accuracy of raw MobileNet: 0.9125%
-Testing Accuracy of student MobileNet: 0.9175%
+Testing Accuracy on class 0 of raw MobileNet 0.3571%  
+Testing Accuracy on class 0 of student MobileNet: 0.3333%  
+Testing Accuracy on class 1 of raw MobileNet: 0.9777%  
+Testing Accuracy on class 1 of student MobileNet: 0.9860%  
+Testing Accuracy of raw MobileNet: 0.9125%  
+Testing Accuracy of student MobileNet: 0.9175%  
